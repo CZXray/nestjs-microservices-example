@@ -16,7 +16,7 @@
     "@nestjs/common": "8.0.0",
     "@nestjs/core": "8.0.0",
     "@nestjs/microservices": "8.0.0",
-    "@nestjs/platform-express": "8.0.0",
+    "@nestjs/platform-express": "10.4.14",
     "nodemailer": "^6.4.11",
     "reflect-metadata": "0.1.13",
     "rimraf": "3.0.2",
