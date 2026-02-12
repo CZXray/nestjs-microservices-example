@@ -13,10 +13,10 @@
     "test": "jest --config ./test/jest-e2e.json --detectOpenHandles"
   },
   "dependencies": {
-    "@nestjs/common": "8.0.0",
+    "@nestjs/common": "9.0.0",
     "@nestjs/core": "8.0.0",
     "@nestjs/microservices": "8.0.0",
-    "@nestjs/platform-express": "8.0.0",
+    "@nestjs/platform-express": "10.4.22",
     "@nestjs/swagger": "5.0.9",
     "reflect-metadata": "0.1.13",
     "rimraf": "3.0.2",
